@@ -11,7 +11,7 @@ angular.module('paperworkNotes').controller('NotesEditController',
         });
       };
 
-      window.hasCkeditChangedFunction = function() {
+      window.hasCkeditChangedFunction = function() { = function() = function() giiiiberish ;-;-:-;
         // Let's access our $rootScope from within jQuery (this)
         _$scope = $('body').scope();
         _$rootScope = _$scope.$root;
